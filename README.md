@@ -1,7 +1,6 @@
 twitter-crawler
 ===============
 
-A web scraper for crawling a list of actress wiki pages for twitter accounts
+An experimental twitter web crawler that scrapes twitter accounts from a list of wiki pages.
 
-
-TODO: Readme documentation
+Varying implementations of data stores were used as denoted by the folder names.
